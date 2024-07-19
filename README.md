@@ -24,3 +24,7 @@ After this request you can create the admin user then you can use the system.
 I added the .env files to the repo intentionally for the sake of being easy. I know that .env files are ignored in .gitignore.
 
 
+There is a video demonstraiton.
+https://github.com/user-attachments/assets/e0d2f13f-15df-4049-9376-65a8bcea261a
+
+
